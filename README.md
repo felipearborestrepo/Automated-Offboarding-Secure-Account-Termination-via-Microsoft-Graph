@@ -145,5 +145,7 @@ Write-Host "━━━━━━━━━━━━━━━━━━━━━━�
 
 <img width="1203" height="79" alt="Screenshot 2026-08-08 at 11 51 10" src="https://github.com/user-attachments/assets/76fda86e-497a-4ddd-81d0-f9835e3156ce" />
 
-Retrieved AssignedLicenses — needed for license removal
-If user not found the catch block logs the failure and moves to next employee
+# Audit Logs results in Entra ID
+
+<img width="1394" height="579" alt="Screenshot 2026-08-08 at 11 54 41" src="https://github.com/user-attachments/assets/ce7f6586-7e36-4b5c-a1a5-5d2719d12b02" />
+
